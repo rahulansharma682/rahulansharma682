@@ -1,10 +1,9 @@
 ## Hi there, I'm Rahul 👋  
 
-🎓 **Master’s Student in Computer Science** at **Johns Hopkins University** (Expected May 2026)  
-💡 Passionate about **Machine Learning**, **Natural Language Processing** and **Cloud Computing**
-🌱 Worked as **Artificial Intelligence Intern** at *SoKat* over the summer of 2025.   
-🔭 Exploring **LLMs for speech and sign-language understanding**, **serverless cloud architectures**, and **AI-driven data enrichment**  
-💬 Always excited to collaborate on **AI/ML research**, **cloud-native projects**, and **open-source tools**  
+- 🎓 **Master’s Student in Computer Science** at **Johns Hopkins University** (Expected May 2026)  
+- 💡 Passionate about **Machine Learning**, **Natural Language Processing** and **Cloud Computing**
+- 🌱 Worked as **Artificial Intelligence Intern** at *SoKat* over the summer of 2025.   
+- 💬 Always excited to collaborate on **AI/ML research**, **cloud-native projects**, and **open-source tools**  
 
 ---
 
@@ -30,6 +29,7 @@
 - 🎨 Enjoy watching films, and reading books.  
 - 🌍 Actively exploring **global tech opportunities** for New Grad roles (May 2026).  
 
+<!--
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stat">
@@ -38,6 +38,9 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulansharma682&show_icons=true&theme=tokyonight" />
 </a>
+
+---
+-->
 
 ---
 
