@@ -42,6 +42,6 @@
 ---
 
 ### 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/rahulansharma682)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/chrahulansharma)  
 - 🧑‍💻 [GitHub](https://github.com/rahulansharma682)  
 - 🌐 [Portfolio](https://rahulansharma682.github.io/)   
