@@ -10,7 +10,7 @@
 ### 🧠 About Me  
 - 💻 Hands-on experience in **green cloud computing**, **ML pipelines**, and **Modbus-based industrial simulation**.  
 - 🤖 Built **VQ-APC token prediction**, **sign-language translation**, and **accent-detection** models using CNNs and Transformers.  
-- ☁️ Currently designing an **AWS multi-region Fitlog architecture** with **EC2, RDS, Route 53, and CloudFront** for high availability and elasticity.  
+- ☁️ Currently designing an **AWS multi-region Fitlog architecture** with **EC2, RDS, Route 53, and CloudFront**. 
 - 🔒 Previously worked as an **Advanced App Engineering Analyst at Accenture**, gaining IAM and SailPoint IIQ experience.  
 - 🧩 Strong foundations in **Python, C/C++, Java, SQL**, and frameworks like **PyTorch**, **TensorFlow**, **Docker**, and **AWS**.  
 
@@ -46,5 +46,4 @@
 
 ### 📫 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/chrahulansharma)  
-- 🧑‍💻 [GitHub](https://github.com/rahulansharma682)  
 - 🌐 [Portfolio](https://rahulansharma682.github.io/)   
