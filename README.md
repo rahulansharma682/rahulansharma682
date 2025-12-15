@@ -20,7 +20,7 @@
 - 🧠 **Accent Detection in Indian Languages** – CNN-based spectrogram analysis for accent classification.  
 - 🌐 **Real-Time Sign-Language Translator** – ViT-based multi-modal translation pipeline using *PHOENIX-2014T* dataset.  
 - 🔄 **Simu Bridge** – PLC simulation software integrating Modbus communication for Bosch’s *Device Bridge App*.  
-- ☁️ **AWS Fitlog Multi-Region Architecture** – Elastic, scalable fitness application deployment for *Cloud Computing Course Final*.  
+- ☁️ **AWS Fitlog Multi-Region Architecture** – Elastic, scalable fitness application deployment for *Cloud Computing Course*.  
 - 🧬 **VQ-APC Speech Token Predictor** – LoRA fine-tuned autoregressive model on WikiText-2 and Dogtooth sets.  
 
 ---
