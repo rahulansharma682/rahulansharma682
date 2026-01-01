@@ -1,49 +1,38 @@
-## Hi there, I'm Rahul 👋  
+## Hi there, I'm Rahul
 
-- 🎓 **Master’s Student in Computer Science** at **Johns Hopkins University** (Expected May 2026)  
-- 💡 Passionate about **Machine Learning**, **Natural Language Processing** and **Cloud Computing**
-- 🌱 Worked as **Artificial Intelligence Intern** at *SoKat* over the summer of 2025.   
-- 💬 Always excited to collaborate on **AI/ML research**, **cloud-native projects**, and **open-source tools**  
+I’m a Master’s student in Computer Science at Johns Hopkins University, passionate about intelligent systems, scalable cloud applications, and practical AI solutions. My work spans NLP, machine learning and serverless architectures.
 
 ---
 
-### 🧠 About Me  
-- 💻 Hands-on experience in **green cloud computing**, **ML pipelines**, and **Modbus-based industrial simulation**.  
-- 🤖 Built **VQ-APC token prediction**, **sign-language translation**, and **accent-detection** models using CNNs and Transformers.  
-- ☁️ Currently designing an **AWS multi-region Fitlog architecture** with **EC2, RDS, Route 53, and CloudFront**. 
-- 🔒 Previously worked as an **Advanced App Engineering Analyst at Accenture**, gaining IAM and SailPoint IIQ experience.  
-- 🧩 Strong foundations in **Python, C/C++, Java, SQL**, and frameworks like **PyTorch**, **TensorFlow**, **Docker**, and **AWS**.  
+### What I Work On
+- **Large Language Models & NLP:** evaluation pipelines, human language technology, computational social science  
+- **Cloud & Serverless Systems:** AWS Lambda, S3, SNS, CDK 
+- **Applied Machine Learning:** accent detection, language modeling, evaluation frameworks  
+- **Systems & Developer Tools:** simulations, optimization frameworks, infrastructure automation  
 
 ---
 
-### 🧩 Featured Academic Projects  
-- 🧠 **Accent Detection in Indian Languages** – CNN-based spectrogram analysis for accent classification.  
-- 🌐 **Real-Time Sign-Language Translator** – ViT-based multi-modal translation pipeline using *PHOENIX-2014T* dataset.  
-- 🔄 **Simu Bridge** – PLC simulation software integrating Modbus communication for Bosch’s *Device Bridge App*.  
-- ☁️ **AWS Fitlog Multi-Region Architecture** – Elastic, scalable fitness application deployment for *Cloud Computing Course*.  
-- 🧬 **VQ-APC Speech Token Predictor** – LoRA fine-tuned autoregressive model on WikiText-2 and Dogtooth sets.  
+### Featured Projects
+- **SimuBridge (Bosch Collaboration):** PLC simulator with Modbus support  
+- **FitLog:** serverless workout tracker using AWS Lambda, S3, and SNS  
+- **LLM Evaluation Pipeline (SoKat):** structured testing for LLM-generated data  
+- **Accent Detection via CNNs:** spectrogram-based speech classification  
+- **Container Energy Optimization:** CloudSim-based resource allocation algorithm  
 
 ---
-
-### 🏋️‍♂️ Beyond Tech  
-- 🎨 Enjoy watching films, and reading books.  
-- 🌍 Actively exploring **global tech opportunities** for New Grad roles (May 2026).  
 
 <!--
----
-
 <a href="https://github.com/anuraghazra/github-readme-stat">
   <img height=200 width=450 align="left" src="https://github-readme-stats.vercel.app/api?username=rahulansharma682&hide=stars,prs&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahulansharma682&show_icons=true&theme=tokyonight" />
 </a>
-
----
 -->
 
 ---
 
-### 📫 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/chrahulansharma)  
-- 🌐 [Portfolio](https://rahulansharma682.github.io/)   
+### Let’s Connect  
+- Actively exploring **global tech opportunities** for New Grad roles (May 2026)  
+- [LinkedIn](https://www.linkedin.com/in/chrahulansharma)  
+- [Portfolio](https://rahulansharma682.github.io/)  
