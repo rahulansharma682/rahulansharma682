@@ -30,7 +30,6 @@ I’m a Master’s student in Computer Science at Johns Hopkins University, pass
 </a>
 -->
 
----
 
 ### Let’s Connect  
 - Actively exploring **global tech opportunities** for New Grad roles (May 2026)  
